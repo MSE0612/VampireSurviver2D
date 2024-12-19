@@ -67,7 +67,7 @@ public class Enemy : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!collision.CompareTag("Bullet")) 
+        if (!collision.CompareTag("Bullet") || !isLive) 
             return;
 
         health -= collision.GetComponent<Bullet>().damage;
@@ -82,14 +82,16 @@ public class Enemy : MonoBehaviour
             rb.simulated = false;
             spriter.sortingOrder = 1;
             anim.SetBool("Dead", true);
+            GameManager.instance.kill++;
+            GameManager.instance.GetExp();
         }
     }
 
     IEnumerator KnockBack()
     {
-        yield return wait;
+        yield return null;
         Vector3 playerPos = GameManager.instance.player.transform.position;
-        Vector3 dirVec = transform.position - playerPos;
+        Vector3 dirVec = this.transform.position - playerPos;
         rb.AddForce(dirVec.normalized * 3, ForceMode2D.Impulse);
     }
 
