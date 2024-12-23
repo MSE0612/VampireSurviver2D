@@ -29,7 +29,7 @@ public class Reposition : MonoBehaviour
                 break;
 
             case "Enemy":
-                if (collision.enabled)
+                if (collision.enabled && GetComponent<Enemy>().isLive)
                 {
                     transform.Translate(playerDir * 20 + 
                         new Vector3(Random.Range(-3f, 3f), Random.Range(-3f, 3f), 0f));

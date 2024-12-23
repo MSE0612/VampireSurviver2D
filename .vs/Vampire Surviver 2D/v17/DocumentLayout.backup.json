@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "E:\\MSE\\Vampire Surviver 2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|e:\\mse\\vampire surviver 2d\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|e:\\mse\\vampire surviver 2d\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\reposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\reposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D0C5E99-EC6B-55CA-E238-049729EAF498}|Assembly-CSharp.csproj|E:\\MSE\\Vampire Surviver 2D\\assets\\script\\monsterspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,23 +50,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Scanner.cs",
-              "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Scanner.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Scanner.cs",
-              "ToolTip": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Scanner.cs",
-              "RelativeToolTip": "Assets\\Script\\Scanner.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAABKAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Follow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Follow.cs",
+              "ToolTip": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Follow.cs",
+              "RelativeToolTip": "Assets\\Script\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:47:31.578Z"
+              "WhenOpened": "2024-12-20T00:53:36.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HUD.cs",
+              "ToolTip": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\HUD.cs",
+              "RelativeToolTip": "Assets\\Script\\HUD.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:01:34.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Weapon.cs",
               "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon.cs",
@@ -74,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Spawner.cs",
               "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Spawner.cs",
@@ -86,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
               "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
@@ -94,60 +110,60 @@
               "RelativeToolTip": "Assets\\Script\\Enemy.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAvwDsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:52:10.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:52:10.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Reposition.cs",
-              "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Reposition.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Reposition.cs",
-              "ToolTip": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Reposition.cs",
-              "RelativeToolTip": "Assets\\Script\\Reposition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T05:54:08.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
               "ToolTip": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwBUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:13:26.792Z"
+              "WhenOpened": "2024-12-17T01:13:26.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Bullet.cs",
               "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
               "ToolTip": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Bullet.cs",
               "RelativeToolTip": "Assets\\Script\\Bullet.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAArwBAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T01:43:50.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
               "ToolTip": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\GameManager.cs",
               "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA1wCAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T05:53:25.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Scanner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scanner.cs",
+              "ToolTip": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\Scanner.cs",
+              "RelativeToolTip": "Assets\\Script\\Scanner.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:47:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MonsterSpawn.cs",
               "DocumentMoniker": "E:\\MSE\\Vampire Surviver 2D\\Assets\\Script\\MonsterSpawn.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MonsterSpawn.cs",

@@ -62,7 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Reposition.cs" />
+    <Compile Include="Assets\Script\SceneChange.cs" />
     <Compile Include="Assets\Script\Scanner.cs" />
+    <Compile Include="Assets\Script\Follow.cs" />
     <Compile Include="Assets\Script\Spawner.cs" />
     <Compile Include="Assets\Script\MonsterSpawn.cs" />
     <Compile Include="Assets\Script\Weapon.cs" />

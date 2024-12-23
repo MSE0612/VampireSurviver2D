@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.Android.Gradle.Manifest;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
@@ -11,7 +10,7 @@ public class Enemy : MonoBehaviour
     public RuntimeAnimatorController[] animCon;
     public Rigidbody2D target;
 
-    bool isLive = true;
+    public bool isLive = true;
 
     Rigidbody2D rb;
     Collider2D col;
@@ -87,16 +86,14 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    IEnumerator KnockBack()
-    {
+    IEnumerator KnockBack() {
         yield return null;
         Vector3 playerPos = GameManager.instance.player.transform.position;
         Vector3 dirVec = this.transform.position - playerPos;
         rb.AddForce(dirVec.normalized * 3, ForceMode2D.Impulse);
     }
 
-    void Dead()
-    {
+    void Dead() {
         gameObject.SetActive(false);
     }
 }
